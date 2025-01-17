@@ -1,5 +1,6 @@
+#ABOUT ME
 - 👋 Hi, I’m @atemkhumbah
-- 👀 I’m interested in New Technology
+- 👀 I’m interested in New Technology and Internet of things
 - 🌱 I’m currently learning Information technology and cybersecurity
 - 💞️ I’m looking to collaborate on  web security and web application projects
 - 📫 How to reach me ;akhumbah@student.cscc.edu
